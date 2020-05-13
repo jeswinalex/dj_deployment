@@ -26,10 +26,10 @@ SECRET_KEY = 'v0hj_ee#4*pge60%1sv1-k7pvzv+h7!mu0oaqjm1+fb*+zb@yb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://jeswinalex.pythonanywhere.com']
+ALLOWED_HOSTS = ['https://jeswinalex.pythonanywhere.com']
 
 
-# Application definition
+# Application definition 
 
 INSTALLED_APPS = [
     'django.contrib.admin',
